@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Charm&family=El+Messiri:wght@500&family=Mansalva&family=Satisfy&family=Tangerine&family=Waiting+for+the+Sunrise&display=swap');
+body{
+    background-image: url('/images/delicate.jpeg');
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.first h1{
+    color: rgb(191, 76, 95);
+    font-family: 'Tangerine', cursive;    
+}
+.tsk{
+    font-family: 'Satisfy', cursive;
+}
+.btn1{
+    background-color:rgb(191, 76, 95) ;
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+    align-items: center;
+}
+.btn1:hover{
+    background-color:rgb(229, 140, 156) ;
+
+}
+.table1 td{
+    font-family: 'El Messiri', sans-serif;
+    font-size: large;
+}
